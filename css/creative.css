@@ -1,1 +1,31 @@
-/* Inserta tu codigo CSS aqui */
+/* General */
+* {
+	text-align: center;
+}
+.txtWhite {
+	color: #fff;
+}
+.coral {
+	color: #f05f40;
+}
+.bgCoral {
+	background-color: #f05f40;
+}
+.navCoral {
+	background-color: #f2755a;
+}
+.bgBlack {
+	background-color: #222222;
+}
+.bgWhite {
+	background-color: #fff;
+}
+.bgImg {
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.opacity {
+	opacity: 0.5;
+}
