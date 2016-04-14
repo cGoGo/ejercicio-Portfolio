@@ -1,7 +1,4 @@
 /* General */
-* {
-	text-align: center;
-}
 .txtWhite {
 	color: #fff;
 }
@@ -28,4 +25,45 @@
 }
 .opacity {
 	opacity: 0.5;
+}
+.fontSize08 {
+	font-size: 0.8em;	
+}
+.fontSize3 {
+	font-size: 3em;
+}
+.bold {
+	font-weight: bold;	
+}
+.bolder {
+	font-weight: bolder;
+}
+
+/* HEADER */
+.contLogoNav {
+	margin-top: 1%;
+}
+nav a {
+	color: rgba(255, 255, 255, 0.8);
+}
+nav a:hover , .bottonHeader a:hover {
+	color: white;
+	text-decoration: none;
+}
+.lineaNav {
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+.tittle {
+	margin-top: 15%;
+}
+.lineTittle {
+	width: 35px;
+	border-top: 2px solid #f05f40;
+}
+.description {
+	margin: 3% 25%;
+}
+.bottonHeader a {
+	padding: 15px 20px;
+	border-radius: 20px;
 }
