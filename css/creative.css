@@ -29,6 +29,9 @@
 .fontSize08 {
 	font-size: 0.8em;	
 }
+.fontSize2 {
+	font-size: 2em;
+}
 .fontSize3 {
 	font-size: 3em;
 }
@@ -46,7 +49,7 @@
 nav a {
 	color: rgba(255, 255, 255, 0.8);
 }
-nav a:hover , .bottonHeader a:hover {
+.itemNavHeader:hover {
 	color: white;
 	text-decoration: none;
 }
@@ -66,4 +69,21 @@ nav a:hover , .bottonHeader a:hover {
 .bottonHeader a {
 	padding: 15px 20px;
 	border-radius: 20px;
+}
+.bottonHeader {
+	margin-bottom: 18%;
+}
+.itemNav2:hover , .bottonHeader a:hover {
+	color: #f05f40;
+	text-decoration: none;
+}
+.lineWhite {
+	width: 35px;
+	border: 1px solid white;
+}
+.description2 {
+	margin: 1% 25% 6% 25%;
+}
+.sectionSobreMi {
+	padding-top: 3%;
 }
