@@ -5,6 +5,9 @@
 .txtWhite {
 	color: #fff;
 }
+.txtBlack {
+	color: #000000;
+}
 .coral {
 	color: #f05f40;
 }
@@ -28,4 +31,47 @@
 }
 .opacity {
 	opacity: 0.5;
+}
+.pd-3{
+	padding: 3%;
+}
+.github button{
+	border-radius: 25px;
+	border: hidden;
+	padding: 1%;
+	font-weight: 800;
+}
+img{
+	max-width: 100%;
+}
+.services{
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.decoration{
+	text-decoration: none;
+}
+.a{
+	display: inline-block;
+	margin-right: 10%;
+}
+.b{
+	display: inline-block;
+	margin-left: 10%;
+}
+.wd{
+	width: 50%;
+	margin-left: 25%;
+}
+.weight{
+	font-weight: 600;
+	font-size: 25px;
+}
+.mg{
+	padding: 5%;
+}
+.contact{
+	border-top: 3px solid #f05f40;
+	margin-left: 48%;
 }
