@@ -1,7 +1,7 @@
 /* General */
-/* {
+* {
 	text-align: center;
-}*/
+}
 .txtWhite {
 	color: #fff;
 }
@@ -26,6 +26,12 @@
 	background-position: center;
 	background-size: cover;
 }
-.opacity {
-	opacity: 0.5;
+/* Servicios */
+.lineCoral {
+	border: 1px solid #f05f40;
+	width: 5%
 }
+.iService {
+	font-size: 2em;
+}
+.
