@@ -27,6 +27,9 @@
 	background-size: cover;
 }
 /* Servicios */
+.services {
+	padding: 2% 0;
+}
 .lineCoral {
 	border: 1px solid #f05f40;
 	width: 5%
@@ -34,4 +37,6 @@
 .iService {
 	font-size: 2em;
 }
-.
+.imgGallery {
+	max-width: 70vmin;
+}
